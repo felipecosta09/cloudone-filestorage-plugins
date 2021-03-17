@@ -4,7 +4,7 @@ awscli==1.16.280
 bdist-mpkg==0.5.0
 bonjour-py==0.3
 botocore==1.13.16
-bottle==0.12.18
+bottle==0.12.19
 certifi==2020.6.20
 cffi==1.12.2
 chardet==3.0.4
@@ -64,11 +64,11 @@ pyOpenSSL==19.0.0
 pyparsing==2.0.1
 python-dateutil==2.8.0
 pytz==2013.7
-PyYAML==5.1.2
+PyYAML==5.2
 requests==2.24.0
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.2.1
 scipy==0.13.0b1
 six==1.13.0
-urllib3==1.25.7
+urllib3==1.25.9
 xattr==0.6.4
